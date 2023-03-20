@@ -1,0 +1,126 @@
+#hwy{
+text-align: center;
+    padding-bottom: 120px;
+}
+
+.hwy{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.heading h1{
+    font-weight: 770;
+    font-size: 54px;
+    line-height: 68px;
+    text-align: center;
+    color: #151414;
+}
+.heading h6{
+    margin-top: 15px;
+    font-weight: 750;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    color: #3B433E;
+}
+.map{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 70px;
+    padding-bottom: 60px;
+}
+.depart{
+    display: flex;
+    align-items: center;
+}
+
+.easy{
+    width: 270px;
+    height: 245px;
+}
+.easy p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+}
+.easy h3{
+    margin: 20px 0;
+    font-weight: 770;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #181D19;
+}
+.live{
+    width: 270px;
+    height: 245px;
+    margin: 0 100px;
+}
+.live p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+}
+.live h3{
+    margin: 20px 0;
+    font-weight: 770;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #181D19;
+}
+.organic{
+    width: 270px;
+    height: 245px;
+}
+.organic p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+}
+.organic h3{
+    margin: 20px 0;
+    font-weight: 770;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #181D19;
+}
+
+.clients{
+    margin: 0 150px;
+}
+.food h2{
+    font-weight: 780;
+    font-size: 44px;
+    color: #000000;
+}
+.food h5{
+    font-weight: 760;
+    font-size: 20px;
+    color: #545454;
+}
+.clients h2{
+    font-weight: 780;
+    font-size: 44px;
+    color: #000000;
+}
+.clients h5{
+    font-weight: 760;
+    font-size: 20px;
+    color: #545454;
+}
+.online h2{
+    font-weight: 780;
+    font-size: 44px;
+    color: #000000;
+}
+.online h5{
+    font-weight: 760;
+    font-size: 20px;
+    color: #545454;
+}
